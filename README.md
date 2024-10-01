@@ -1,9 +1,12 @@
-<h1 align="left">Olá!!!Meu nome é Rafael Mangabeira.<br>Seja bem vindo!!!🥳🎉🎉🎉</h1>
+<h1 align="left"># 👋 Olá, eu sou Rafael Mangabeira!</h1>
+
+<h2>Bem-vindo ao meu espaço! Sou um entusiasta da tecnologia e apaixonado por codificação. Vamos explorar juntos!🎉</h2>
 
 ###
 
 ###
-
+🚀 Minhas Estatísticas
+--
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=RafaelManga&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" style="width: 45%; max-width: 300px; height: auto;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelManga&theme=dracula&hide_border=false" alt="streak stats" style="width: 45%; max-width: 300px; height: auto;" />
@@ -22,7 +25,7 @@
 
 
 ###
-Tecnologias que uso no meu dia a dia
+<br>👨‍💻Tecnologias que uso no meu dia a dia
 ------------------
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -41,7 +44,7 @@ Tecnologias que uso no meu dia a dia
 </div>
 
 ###
-Mídias Sociais
+<br>📱Mídias Sociais
 ---------------------
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael_mangabeira_?igsh=YTZjcG1vaHk5d25s)
@@ -69,6 +72,7 @@ Mídias Sociais
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Ratomato/count.svg?"  />
+ <Strong> <br>😲Visitantes😲</Strong>
 </div>
 
 ###
